@@ -79,5 +79,5 @@ Operational Insights: Highlights importance of online delivery and table booking
 Trend Monitoring: Identifies growth patterns across years and regions
 
  Screenshots
-https://github.com/HarshaliSS/Zomato-Analysis/blob/main/excel-dashboard.png
+[https://github.com/HarshaliSS/Zomato-Analysis/blob/main/excel-dashboard.png](https://github.com/HarshaliSS/Zomato-Analysis/blob/af20bc84d7c0d2aee2a2fd4a83e42144ada768e3/excel-dashboard.png)
 [https://github.com/HarshaliSS/Zomato-Analysis/blob/main/Pbi%20overview%20dashboard.png](https://github.com/HarshaliSS/Zomato-Analysis/blob/main/Pbi%20overview%20dashboard.png?raw=true)
