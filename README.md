@@ -1,19 +1,19 @@
 # Zomato-Analysis
-##Zomato Analytics Dashboard: Global Restaurant & Cuisine Insights
+## Zomato Analytics Dashboard: Global Restaurant & Cuisine Insights
 An interactive Power BI dashboard designed to analyze Zomato restaurant data across multiple countries—focusing on restaurant distribution,
 customer ratings, cuisines, pricing, online services, and growth trends.
 
 The Zomato Analytics Dashboard provides a comprehensive view of restaurant performance and customer preferences across cities and countries. 
 It helps stakeholders understand dining trends, popular cuisines, pricing patterns, and service availability such as online delivery and table booking.
 
-The dashboard was built using the following tools and technologies:
+## The dashboard was built using the following tools and technologies:
  Power BI Desktop – Primary tool for data visualization and dashboard development
  Power Query – Used for data cleaning, transformation, and shaping
  DAX (Data Analysis Expressions) – Created calculated measures and KPIs such as total restaurants, average ratings, votes, and sales
  Data Modeling – Structured relationships between restaurant, city, country, cuisine, and date attributes for accurate cross-filtering
  File Format – .pbit / .pbix for development and .png for dashboard previews
 
- Source: Zomato restaurant dataset
+## Source: Zomato restaurant dataset
   The dataset contains information about restaurants across 15 countries and 140+ cities, including:
    Restaurant names and locations
    Cuisine types
@@ -70,7 +70,7 @@ Price bucket
 Online delivery & table booking
 All visuals update dynamically based on selections
 
-##Business Impact & Insights
+## Business Impact & Insights
 
 Market Analysis: Helps food-tech companies identify high-density restaurant markets
 Customer Preference Insights: Reveals popular cuisines and preferred price ranges
