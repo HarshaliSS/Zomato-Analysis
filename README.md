@@ -80,4 +80,4 @@ Trend Monitoring: Identifies growth patterns across years and regions
 
  Screenshots
 https://github.com/HarshaliSS/Zomato-Analysis/blob/main/excel-dashboard.png
-https://github.com/HarshaliSS/Zomato-Analysis/blob/main/Pbi%20overview%20dashboard.png
+[https://github.com/HarshaliSS/Zomato-Analysis/blob/main/Pbi%20overview%20dashboard.png](https://github.com/HarshaliSS/Zomato-Analysis/blob/main/Pbi%20overview%20dashboard.png?raw=true)
